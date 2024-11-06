@@ -19,10 +19,7 @@ This is a classic Snake Game built using Python. The objective of the game is to
 2. Navigate to the project directory:
    ```bash
    cd Snake-Game
-3. Install dependencies: The game is built using Python. Make sure you have Python installed, then install any required dependencies (if any).
-   ```bash
-   pip install -r requirements.txt
-4. Run the game:
+3. Run the game:
    ```bash
    python main.py
    
